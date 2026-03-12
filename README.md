@@ -23,7 +23,6 @@ During the analysis, I gained practical experience selecting appropriate statist
 - After completing the analysis, I exported the cleaned dataset to Tableau and created an interactive dashboard that summarizes the key results in one place.
 
 
-*I am currently preparing detailed documentation that will explain the analytical approach, describe the visualizations, and provide guidance on how to interact with and maintain the dashboard.*
 
 ## Dashboard
 
